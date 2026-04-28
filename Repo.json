@@ -1,0 +1,7 @@
+{
+  "name": "Osvaldo Ultra Auto Repo PRO+",
+  "description": "Repositorio expandido con múltiples fuentes, enfoque LATAM y redundancia",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/recloudstream/extensions/master/repo.json",
+    "https://raw.githubusercontent.com
